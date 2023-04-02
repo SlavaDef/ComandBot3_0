@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/main/java/ApiTelegramBot/CurrencyBot.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Utils/sheduler/BotAnswer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Utils/sheduler/DailyNotification.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Utils/sheduler/MessageUtil.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Utils/sheduler/NotificationScheduler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/buttons/BotCommands.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/buttons/Buttons.java" charset="windows-1251" />
+  </component>
+</project>
